@@ -68,7 +68,7 @@
 
 <p align="left">
 <a href="https://leetcode.com/u/R0hit13/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://streak-stats.demolab.com?user=r0hit13&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
