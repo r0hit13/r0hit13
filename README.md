@@ -46,9 +46,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,git,github,vscode,postman&perline=6" />
-
 </p>
 
 ---
@@ -56,19 +54,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=r0hit13&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit13&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=r0hit13&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit13&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
 <br>
-
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=r0hit13&theme=github-dark&hide_border=true"/>
-
 </div>
 
 ---
@@ -76,7 +67,6 @@
 ## 💻 Coding Profiles
 
 <p align="left">
-
 <a href="https://leetcode.com/u/R0hit13/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -88,20 +78,14 @@
 ## 🚀 Featured Projects
 
 🔹 Expense Tracker (Java, JDBC, MySQL)
-
 🔹 Restaurant Management Website
-
 🔹 Multimodal Emotion Recognition System
-
 🔹 Namoza Developer Assignment
-
 > ⭐ Pin these repositories on your GitHub profile.
 
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=r0hit13&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 </div>
 
