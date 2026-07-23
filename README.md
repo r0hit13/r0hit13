@@ -64,6 +64,15 @@
 
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r0hit13&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0hit13&theme=tokyonight"/>
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -122,3 +131,11 @@
 💙 *"Code • Learn • Build • Grow"* 🚀
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/r0hit13/r0hit13/output/github-contribution-grid-snake.svg"/>
+
+</p>
