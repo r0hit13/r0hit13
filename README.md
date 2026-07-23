@@ -48,11 +48,11 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,git,github,vscode,postman,docker&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,mongodb,git,github&perline=6" />
 
-</p>
+</div>
 
 
 ## 📊 GitHub Analytics
