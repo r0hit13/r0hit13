@@ -71,10 +71,3 @@
 
 </div>
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=r0hit13&theme=tokyo-night&hide_border=true"/>
-
-</p>
