@@ -1,4 +1,16 @@
-<div align="center"> # Hii , I'm Rohit Kumar Ram ### 💻 Full Stack Web Developer <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Java+Developer;Frontend+Developer;React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" /> <br> 💡 *Passionate about building modern, scalable and user-friendly web applications.* </div>
+<div align="center">
+
+# 👋 Hi, I'm Rohit Kumar
+
+## 🚀 Full Stack Web Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Passionate+About+Backend+and+Frontend+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+💡 *Passionate about building scalable, user-friendly web applications and continuously improving my development skills.*
+
+</div>
+
+---
 
 
 ## 👨‍💻 About Me
