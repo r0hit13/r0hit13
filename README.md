@@ -20,8 +20,7 @@
 - 🎓 B.Tech in Computer Science & Engineering (2026)
 - 💻 Passionate Full Stack Web Developer
 - ☕ Java • React Developer • Modern Web Technologies
-- 🌱 Passionate about Problem Solving 
-- 🧩 Solving DSA problems on LeetCode
+- 🌱 Strong interest in Problem Solving & Data Structures
 - 🚀 Building scalable web applications
 - 📫 Reach me: **rohitkrram13@gmail.com**
 
