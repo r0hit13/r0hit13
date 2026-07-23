@@ -50,7 +50,49 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,mongodb,git,github&perline=6" />
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+<sub><b>HTML5</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+<sub><b>CSS3</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<sub><b>JavaScript</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
+<sub><b>React.js</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
+<sub><b>Tailwind CSS</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>
+<sub><b>Java</b></sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
+<sub><b>Spring Boot</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+<sub><b>MySQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
+<sub><b>MongoDB</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<sub><b>Git</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<sub><b>GitHub</b></sub>
 
 </div>
 
