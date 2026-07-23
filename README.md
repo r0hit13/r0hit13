@@ -63,3 +63,62 @@
 <img src="https://streak-stats.demolab.com?user=r0hit13&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=r0hit13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+
+</p>
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/R0hit13/">
+<img src="https://img.shields.io/badge/LeetCode-Solve_Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/r0hit13">
+<img src="https://img.shields.io/badge/GitHub-View_Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/r0hit13/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 💰 **Expense Tracker** | Manage daily expenses with CRUD operations and reports. | Java, JDBC, MySQL |
+| 🍽️ **Restaurant Management Website** | Responsive website with menu, reservations and modern UI. | HTML, CSS, JavaScript |
+| 🤖 **Multimodal Emotion Recognition System** | AI-based emotion detection using facial expressions and voice. | Python, Machine Learning |
+| 📈 **Namoza Developer Assignment** | GTM Event Tracking, Landing Page & Integration Design. | HTML, CSS, JavaScript |
+
+## 📫 Contact
+
+- 📧 **Email:** rohitkrram13@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/r0hit13/
+- 💻 **GitHub:** https://github.com/r0hit13
+
+- ## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=r0hit13&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+💙 *"Code • Learn • Build • Grow"* 🚀
+
+</div>
