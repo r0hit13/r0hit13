@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Rohit Kumar
+# 👋 Hi, I'm Rohit Kumar
 
-### Full Stack Web Developer | Java Developer | Spring Boot | React | MySQL
+### 🚀 Full Stack Web Developer | Java Developer | Spring Boot | React | MySQL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Java+Developer;Spring+Boot+Developer;React+Developer;Building+Real+World+Applications)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/Open%20to-Software%20Developer%20Roles-success?style=for-the-badge" />
 
 </div>
 
@@ -56,9 +56,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=r0hit13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=r0hit13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -76,15 +76,13 @@
 
 </p>
 
+## 🏆 GitHub Achievements
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=r0hit13&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
+- 🌟 Open Source Learner
+- 💻 Full Stack Developer
+- ☕ Java Enthusiast
+- 🚀 Always Learning New Technologies
+  
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -105,12 +103,17 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 💰 **Expense Tracker** | Manage daily expenses with CRUD operations and reports. | Java, JDBC, MySQL |
-| 🍽️ **Restaurant Management Website** | Responsive website with menu, reservations and modern UI. | HTML, CSS, JavaScript |
-| 🤖 **Multimodal Emotion Recognition System** | AI-based emotion detection using facial expressions and voice. | Python, Machine Learning |
-| 📈 **Namoza Developer Assignment** | GTM Event Tracking, Landing Page & Integration Design. | HTML, CSS, JavaScript |
+### 💰 Expense Tracker
+Java, JDBC & MySQL based application to manage daily expenses with CRUD operations and reports.
+
+### 🍽️ Restaurant Management Website
+Responsive restaurant website built using HTML, CSS and JavaScript.
+
+### 🤖 Multimodal Emotion Recognition System
+Machine Learning project for emotion recognition using facial expressions and voice.
+
+### 📈 Namoza Developer Assignment
+Landing Page, GTM Event Tracking and Integration Design.
 
 
 
