@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -24,7 +24,7 @@
 - 🚀 Building scalable web applications
 - 📫 Reach me: **rohitkrram13@gmail.com**
 
----
+
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -42,7 +42,7 @@
 </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,mongodb,git,github&perline=6" />
 </div>
 
----
+
 
 
 ## 👀 Profile Views
@@ -61,7 +61,7 @@
 
 </p>
 
----
+
 
 <div align="center">
 
