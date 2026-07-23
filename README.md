@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech in Computer Science & Engineering (2026)
 - 💻 Passionate Full Stack Web Developer
-- ☕ Java • Spring Boot • React Developer
+- ☕ Java • React Developer • Modern Web Technologies
 - 🌱 Currently learning Docker, AWS & System Design
 - 🧩 Solving DSA problems on LeetCode
 - 🚀 Building scalable web applications
