@@ -4,9 +4,12 @@
 
 ### Full Stack Web Developer | Java Developer | Spring Boot | React | MySQL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Java+Developer;Spring+Boot+Developer;React+Developer;Building+Real+World+Applications"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Java+Developer;Spring+Boot+Developer;React+Developer;Building+Real+World+Applications)](https://git.io/typing-svg)
 
 </div>
+
+---
+
 
 ## 👨‍💻 About Me
 
@@ -18,7 +21,7 @@
 - 🚀 Building scalable web applications
 - 📫 Reach me: **rohitkrram13@gmail.com**
 
-- ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -48,13 +51,14 @@
 
 </p>
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=r0hit13&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=r0hit13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -68,16 +72,16 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=r0hit13&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r0hit13&theme=github-dark&hide_border=true"/>
 
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0hit13&theme=tokyonight"/>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=r0hit13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=r0hit13&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -108,13 +112,9 @@
 | 🤖 **Multimodal Emotion Recognition System** | AI-based emotion detection using facial expressions and voice. | Python, Machine Learning |
 | 📈 **Namoza Developer Assignment** | GTM Event Tracking, Landing Page & Integration Design. | HTML, CSS, JavaScript |
 
-## 📫 Contact
 
-- 📧 **Email:** rohitkrram13@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/r0hit13/
-- 💻 **GitHub:** https://github.com/r0hit13
 
-- ## 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
 
@@ -128,14 +128,7 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-💙 *"Code • Learn • Build • Grow"* 🚀
+💙 *Code • Learn • Build • Grow* 🚀
 
 </div>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/r0hit13/r0hit13/output/github-contribution-grid-snake.svg"/>
-
-</p>
