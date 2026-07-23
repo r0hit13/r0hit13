@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohit Kumar
+# Hi 👋, I'm Rohit Kumar Ram
 
-## 🚀 Full Stack Web Developer
+### Full Stack Web Developer | Java Developer | Spring Boot | React | MySQL
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Passionate+About+Backend+and+Frontend+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-💡 *Passionate about building scalable, user-friendly web applications and continuously improving my development skills.*
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
