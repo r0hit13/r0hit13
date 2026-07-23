@@ -1,29 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohit Kumar
+# Hi 👋, I'm Rohit Kumar
 
-### 🚀 Full Stack Web Developer | Java Developer | Spring Boot | React | MySQL
+### 💻 Full Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Java+Developer;Spring+Boot+Developer;React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Developer;React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<br><br>
+<br>
 
-<a href="https://github.com/r0hit13" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-r0hit13-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/r0hit13/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/R0hit13/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-R0hit13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+💡 *Passionate about building modern, scalable and user-friendly web applications.*
 
 </div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
