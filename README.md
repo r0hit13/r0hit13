@@ -50,51 +50,71 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React.js
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind CSS
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
-</td>
-</tr>
+<span align="center">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+<b>HTML5</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
-</td>
-<td></td>
-</tr>
-</table>
+<span align="center">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+<b>CSS3</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-</div>
+<span align="center">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<b>JavaScript</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-**🛠️ Tools:** Git • GitHub
+<span align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
+<b>React.js</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
+<b>Tailwind CSS</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span align="center">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>
+<b>Java</b>
+</span>
+
+<br><br>
+
+<span align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>
+<b>Spring Boot</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+<b>MySQL</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
+<b>MongoDB</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<b>Git</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<b>GitHub</b>
+</span>
 
 </div>
 
