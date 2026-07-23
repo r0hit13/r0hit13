@@ -46,28 +46,13 @@
 
 </p>
 
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java&perline=6" />
-
-HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
-CSS3 &nbsp;&nbsp;&nbsp;&nbsp;
-JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
-React.js &nbsp;&nbsp;&nbsp;&nbsp;
-Tailwind CSS &nbsp;&nbsp;&nbsp;&nbsp;
-Java
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,git,github&perline=5" />
-
-Spring Boot &nbsp;&nbsp;&nbsp;&nbsp;
-MySQL &nbsp;&nbsp;&nbsp;&nbsp;
-MongoDB &nbsp;&nbsp;&nbsp;&nbsp;
-Git &nbsp;&nbsp;&nbsp;&nbsp;
-GitHub
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,mongodb,git,github&perline=6" />
 
 </div>
 
