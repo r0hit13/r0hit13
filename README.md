@@ -63,38 +63,6 @@
 - ☕ Java Enthusiast
 - 🚀 Always Learning New Technologies
   
-## 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/R0hit13/">
-<img src="https://img.shields.io/badge/LeetCode-Solve_Problems-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/r0hit13">
-<img src="https://img.shields.io/badge/GitHub-View_Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/r0hit13/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
-## 🚀 Featured Projects
-
-### 💰 Expense Tracker
-Java, JDBC & MySQL based application to manage daily expenses with CRUD operations and reports.
-
-### 🍽️ Restaurant Management Website
-Responsive restaurant website built using HTML, CSS and JavaScript.
-
-### 🤖 Multimodal Emotion Recognition System
-Machine Learning project for emotion recognition using facial expressions and voice.
-
-### 📈 Namoza Developer Assignment
-Landing Page, GTM Event Tracking and Integration Design.
-
 
 
 ## 👀 Profile Views
