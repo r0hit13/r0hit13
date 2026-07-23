@@ -46,30 +46,23 @@
 
 </p>
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,mongodb,git,github&perline=6" />
 
+<br><br>
+
+**🌐 Frontend:** HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS
+
+**⚙️ Backend:** Java • Spring Boot
+
+**🗄️ Database:** MySQL • MongoDB
+
+**🛠️ Tools:** Git • GitHub
+
 </div>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=r0hit13&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=r0hit13&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ## 📈 Contribution Graph
 
