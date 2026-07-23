@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Rohit Kumar
 
-## 🚀 Full Stack Web Developer
+## Full Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Passionate+About+Backend+and+Frontend+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+### Java • Spring Boot • React • MySQL
 
-💡 *Passionate about building scalable, user-friendly web applications and continuously improving my development skills.*
+💡 *Building scalable web applications and continuously learning new technologies.*
 
 </div>
 
