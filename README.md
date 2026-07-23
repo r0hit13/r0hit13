@@ -59,7 +59,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=r0hit13&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=r0hit13&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
